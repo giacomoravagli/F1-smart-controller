@@ -1,0 +1,2 @@
+CL1_unified_multimode_reducedSize WORKS!! 
+CL_transmission_faiko should work, but the problem may be the soldering of the board
